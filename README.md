@@ -2,7 +2,7 @@
 - 👀 I’m interested in making software
 - 🌱 I’m currently learning backend work
 - 💞️ I’m looking to collaborate on  some startup
-- 📫 How to reach me rahulfrontenddeveloperr@gmil.com
+- 📫 How to reach me rahulfrontenddeveloperr@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: NO fact
 
